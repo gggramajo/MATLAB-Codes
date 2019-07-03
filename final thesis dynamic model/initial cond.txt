@@ -1,0 +1,3 @@
+entry =[10 10]
+exit=[10 665]
+heading= 0 degrees
